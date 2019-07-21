@@ -1,0 +1,236 @@
+ala.al-fuqaha@wmich.edu	Al-Fuqaha
+llilien@wmich.edu	Lilien
+shameek.bhattacharjee@wmich.edu	Bhattacharjee	*
+
+Laurent.Hebert-Dufresne@uvm.edu	Dufresne
+james.bagrow@uvm.edu	Bagrow
+Brian.Beckage@uvm.edu	Beckage
+chris.danforth@uvm.edu	Danforth
+jeff.dinitz@uvm.edu	Dinitz
+paul.hines@uvm.edu	Hines
+
+hyoo1@uno.edu	Yoo
+
+hlb@acm.org	Berghel
+ajoy.datta@unlv.edu	Datta
+juyeon.jo@unlv.edu	Jo
+yoohwan.kim@unlv.edu	Kim
+lawrence.larmore@unlv.edu	Larmore
+
+beardc@umkc.edu	Beard
+chatd@umkc.edu	Chatterjee
+chaudhryg@umkc.edu	Chaudhry
+choiby@umkc.edu	Choi
+masud@umkc.edu	Chowdhury
+harnl@umkc.edu	Harn
+kumarv@umkc.edu	Kumar
+lizhu@umkc.edu	Li
+dmedhi@umkc.edu	Medhi
+shenx@umkc.edu	Shen
+songsej@umkc.edu Song
+
+sepideh.ghanavati@maine.edu	Ghanavati
+
+nihat.altiparmak@louisville.edu	Altiparmak
+a0kuma01@louisville.edu	Kumar
+aplauf01@louisville.edu	Lauf
+o0nasr01@louisville.edu	Nasraoui	*
+
+cbarreto1@nova.edu	Barreto
+laurie@nova.edu	Dringus
+levyy@nova.edu	Levy
+lpei@nova.edu	Liu
+greg@nova.edu	Simco
+lingwang@nova.edu	Wang
+doshin@cs.nmt.edu	Shin
+hss@nmt.edu	Soliman
+zheng@cs.nmt.edu	Zheng
+
+clemente.izurieta@montana.edu	Izurieta
+brendan.mumey@montana.edu	Mumey
+mike.wittie@montana.edu	Wittie
+sean.yaw@montana.edu	Yaw
+
+mcarvalho@fit.edu	Carvalho
+wallen@fit.edu	Allen
+kostanic@fit.edu	Kostanic
+cotero@fit.edu	Otero
+jzec@fit.edu	Zec
+sbhattacharyya@fit.edu	Bhattacharyya
+hcrawford@fit.edu	Crawford
+clee@fit.edu	Lee
+dlevan@fit.edu	LeVan
+esubasi@fit.edu	Subasi
+
+biazsaa@auburn.edu	Biaz
+hamilton@cci.msstate.edu	Hamilton
+limalvi@auburn.edu	Lim
+tshu@auburn.edu	Shu
+
+mahdi.al-ameen@usu.edu	Mahdi
+Erik.Falor@usu.edu	Falor
+Nick.Flann@usu.edu	Flann
+chad.mano@usu.edu	Mano
+
+mike.borowczak@uwyo.edu	Borowczak
+mukul@uwm.edu	Goyal
+hosseini@uwm.edu	Hosseini
+gxu4uwm@uwm.edu	Xu
+
+gamble@utulsa.edu	Gamble
+peter-hawrylak@utulsa.edu	Hawrylak
+tyler-moore@utulsa.edu	Moore
+mauricio-papa@utulsa.edu	Papa
+sujeet@utulsa.edu	Shenoi
+rogerw@utulsa.edu	Wainwright
+
+longpre@utep.edu	Longpre
+firstInitialLastname@utep.edu	Akbar
+obbadreddin@utep.edu	Badreddin
+dktosh@utep.edu	Tosh
+
+Lina.Pu@usm.edu	Pu
+
+atiq@ou.edu	Atiquzzaman
+qcheng@ou.edu	Cheng
+songf@ou.edu	Fang
+
+azad@unomaha.edu	Azadmanesh
+jyoun@unomaha.edu	Youn
+
+jurczykm@missouri.edu	Jurczyk
+calyamp@missouri.edu	Calyam
+chadhar@missouri.edu	Chadha
+hezhi@missouri.edu	He
+hod@missouri.edu	Ho
+hoquek@missouri.edu	Hoque
+
+kiumi@umich.edu	Akingbehin
+bacha@umich.edu	Bacha
+birhanu@umich.edu	Eshete
+dmadma@umich.edu	Ma
+shqwang@umich.edu	Wang
+
+sarkar@miami.edu	Sarkar
+
+shengbo@cs.umb.edu	Sheng
+jxs@cs.umb.edu	Suzuki
+duc@cs.umb.edu	Tran
+
+agrawadp@ucmail.uc.edu	Agrawal
+annexsfs@ucmail.uc.edu	Annexstein
+bermanka@ucmail.uc.edu	Berman
+bhatnark@ucmail.uc.edu	Bhatnagar
+dairi@ucmail.uc.edu	Dai
+fanh@ucmail.uc.edu	Fan
+ferendam@ucmail.uc.edu	Ferendeci
+franco@ucmail.uc.edu	Franco
+heikenjc@ucmail.uc.edu	Heikenfeld
+helmicaj@ucmail.uc.edu	Helmicki
+huyg@ucmail.uc.edu	Hu
+jhari@ucmail.uc.edu	Jha
+jonewb@ucmail.uc.edu	Jone
+koselpb@ucmail.uc.edu	Kosel
+lit8@uc.edu	Li
+purdycc@ucmail.uc.edu	Purdy
+rabieem@ucmail.uc.edu	Rabiee
+ralescal@ucmail.uc.edu	Ralescu
+zhoxu@ucmail.uc.edu	Zhou
+
+letha.etzkorn@uah.edu	Etzkorn
+tathagata.mukherjee@uah.edu	Mukherjee
+
+sacharya@towson.edu	Acharya
+aaligombe@towson.edu	Ali-Gombe
+sfouche@towson.edu	Fouche
+ykim@towson.edu	Kim
+wliao@towson.edu	Liao
+btaylor@towson.edu	Taylor
+awijesinha@towson.edu	Wijesinha
+wyu@towson.edu	Yu
+
+hxy@cs.ua.edu	Hong
+yangxiao@cs.ua.edu	Xiao
+
+rattikorn.hewett@ttu.edu	Hewett
+
+sunho.lim@ttu.edu	Lim
+
+abukamai@ohio.edu	Abukamail
+bartone@ohio.edu	Bartone
+braaschm@ohio.edu	Braasch
+chenji@ohio.edu	Chenji
+dibenede@ohio.edu	DiBenedetto
+dill@ohio.edu	Dill
+jadwisie@ohio.edu	Jadwisienczak
+karanth@ohio.edu	Karanth
+osterman@ohio.edu	Ostermann
+ugazio@ohio.edu	Ugazio
+vangraas@ohio.edu	Van Graas
+
+Fatemeh.Afghah@nau.edu	Afghah
+Bertrand.Cambou@nau.edu	Cambou
+Paul.Flikkema@nau.edu	Flikkema
+John.Georgas@nau.edu	Georgas
+Truong.Nghiem@nau.edu	Nghiem
+Dieter.Otte@nau.edu	Otte
+Abolfazl.Razi@nau.edu	Razi
+
+misra@cs.nmsu.edu	Misra
+
+ff@mst.edu	McMillin
+markov@mst.edu	Markowsky
+sdas@mst.edu	Das
+sarangap@mst.edu	Sarangapani
+sedighs@mst.edu	Sedighsarvestani
+
+jah514@msstate.edu	Hamilton
+ramkumar@cse.msstate.edu	Ramkumar
+
+adurresi@iupui.edu	Durresi
+hilljh@iupui.edu	Hill
+yaoliang@iupui.edu	Liang
+xzou@iupui.edu	Zou
+
+joe.gersch@colostate.edu	GERSCH
+anura.jayasumana@colostate.edu	JAYASUMANA
+shrideep.pallickara@colostate.edu	PALLICKARA
+christos.papadopoulos@colostate.edu	PAPADOPOULOS
+craig.partridge@colostate.edu	PARTRIDGE
+sudeep.pasricha@colostate.edu	PASRICHA
+
+gabydagher@boisestate.edu	Dagher	*
+yantianhou@boisestate.edu	Hou
+jhyeh@boisestate.edu	Yeh
+
+fdragan@kent.edu	Dragan
+javed@kent.edu	Khan
+mnestere@kent.edu	Nesterenko
+hpeyravi@kent.edu	Peyravi
+
+amariucai@k-state.edu	Amariucai
+eyv@k-state.edu	Vasserman
+
+aashok@gsu.edu	Ashok
+abourgeois@cs.gsu.edu	Bourgeois
+zcai@cs.gsu.edu	Cai
+cao@gsu.edu	Cao
+yipan@gsu.edu	Pan
+azelikovsky@cs.gsu.edu	Zelikovsky
+
+amiangshu.bosu@wayne.edu	Bosu
+brok@wayne.edu	Brocanelli
+saifullah@wayne.edu	Saifullah
+
+earyafar@pdx.edu	Aryafar
+nbulusu@pdx.edu	Bulusu
+wuchang@pdx.edu	Feng
+warren@pdx.edu	Harrison
+singhsp@pdx.edu	Singh
+fsong@pdx.edu	Song
+
+daveanderson@wsu.edu	Anderson
+hassan.ghasemzadeh@wsu.edu	Ghasemzadeh
+a.hahn@wsu.edu	Hahn
+dheo@wsu.edu	Heo
+pande@wsu.edu	Pande

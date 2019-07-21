@@ -1,0 +1,53 @@
+robert.akl@unt.edu	Akl
+ram.dantu@unt.edu	Dantu
+song.fu@unt.edu	Fu
+krishna.kavi@unt.edu	Kavi
+saraju.mohanty@unt.edu	Mohanty
+kirill.morozov@unt.edu	Morozov
+takabi@unt.edu	Takabi
+qing.yang@unt.edu	Yang
+
+Elizabeth.Varki@unh.edu	Varki
+Dongpeng.Xu@unh.edu	Xu
+xgao1@memphis.edu	Gao
+lanwang@memphis.edu	Wang
+Kan.Yang@memphis.edu	Yang
+
+mqhuang@uark.edu	Huang
+drt@uark.edu	Thompson
+
+ragib@cis.uab.edu	Hasan
+saxena@uab.edu Saxena
+
+abhattacharya@albany.edu	Bhattacharya
+vkuperman@albany.edu	Kuperman
+mzheleva@albany.edu	Zheleva
+cchow@uccs.edu	Chow
+schang2@uccs.edu	Chang
+
+zzheng3@tulane.edu	Zheng
+
+bichen@syr.edu	Chen
+crchen@syr.edu	Chen
+skchin@syr.edu	Chin
+wedu@syr.edu	Du
+eercanli@syr.edu	Ercanli
+mcgursoy@syr.edu	Gursoy
+fkong03@syr.edu	Kong
+leejk@syr.edu	Lee
+gsingh06@syr.edu	Singh
+varshney@syr.edu	Varshney
+
+aalo@fau.edu	Aalo
+sbatalama@fau.edu	Batalama
+icardei@fau.edu	Cardei
+mcardei@fau.edu	Cardei
+jhallstrom@fau.edu	Hallstrom
+ilyas@fau.edu	Ilyas
+djaramil@fau.edu	Jaramillo
+petrie@fau.edu	Petrie
+gsklivanitis@fau.edu	Sklivanitis
+vpeterso@fau.edu	Peterson
+dpados@fau.edu	Pados
+mnojoumian@fau.edu	Nojoumian
+mahgoubi@fau.edu	Mahgoub

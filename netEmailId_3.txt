@@ -1,0 +1,15 @@
+iahmed3@vcu.edu	Ahmed
+ebulut@vcu.edu	BULUT, PH.D.
+cfung@vcu.edu	Fung
+cluo@vcu.edu	Luo
+tnadeem@vcu.edu	Nadeem
+
+sriramc@usf.edu	Chellappan
+christen@cse.usf.edu	Christensen
+mlabrador@usf.edu	Labrador
+yliu21@mail.usf.edu	Liu
+
+ram@cs.uoregon.edu	Durairajan
+lijun@cs.uoregon.edu	Li
+reza@cs.uoregon.edu	Rejaie
+jsventek@cs.uoregon.edu	Sventek
